@@ -11,12 +11,6 @@ ________________________________________________________________________________
 #### Linguagens de Programação:
 ![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### Banco de Dados:
-
-
-#### Frameworks:
-
-
 #### Outras Tecnologias:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
