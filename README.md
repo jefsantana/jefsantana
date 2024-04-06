@@ -46,18 +46,10 @@ ________________________________________________________________________________
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
 
+__________________________________________________________________________________________________________________
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=carlos-cgs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
 
-__________________________________________________________________________________________________________________
 Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !
 </div>
 
