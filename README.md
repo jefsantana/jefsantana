@@ -30,6 +30,7 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/courses/badge/7227f234-f72e-4bd7-9997-edc43097e3e6.png" height="80"/></a>](https://www.dio.me/certificate/A2C21B58)
 [<img src="https://hermes.dio.me/courses/badge/db3b002b-5d46-46fe-8ee6-409452b11863.png" height="80"/></a>](https://www.dio.me/certificate/UZGO8AC7/share)
 [<img src="https://hermes.dio.me/lab_projects/badges/e8311210-f4c6-4c84-9d82-315ed13ff027.png" height="80"/></a>](https://www.dio.me/certificate/PCNTVTO6)
+
 __________________________________________________________________________________________________________________
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
