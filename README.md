@@ -36,6 +36,8 @@ ________________________________________________________________________________
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
 
-Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !
+Tudo posso Naquele que me fortalece.
+
+Filipenses 4:13
 </div>
 
