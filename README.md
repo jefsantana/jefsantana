@@ -44,8 +44,6 @@ ________________________________________________________________________________
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
 
-Tudo posso Naquele que me fortalece.
-
-Filipenses 4:13
+Tudo posso Naquele que me fortalece. Filipenses 4:13
 </div>
 
