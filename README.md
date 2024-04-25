@@ -27,8 +27,10 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 #### Bootcamps e Cursos:
+[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="80"></a>](https://web.dio.me/track/formacao-logica-de-programacao);
 [<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="90"></a>](https://web.dio.me/track/d9ba9d50-dbba-4ae0-8bc5-b653d67799c6);
 [<img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" height="80"></a>](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03);
+
 
 
 #### Certificações:
