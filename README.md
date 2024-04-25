@@ -17,7 +17,6 @@ ________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada ⚡
 
 #### Linguagens de Programação:
-![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 #### Outras Tecnologias:
