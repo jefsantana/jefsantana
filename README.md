@@ -32,14 +32,17 @@ ________________________________________________________________________________
 
 
 #### Certificações:
-[<img src="https://hermes.dio.me/lab_projects/badges/581a907b-58d8-4ad2-b9c4-69d099267e1e.png" height="80"></a>](https://www.dio.me/certificate/CPEKS5CU)
-[<img src="https://hermes.dio.me/courses/badge/db18b05a-79d0-4359-9e4b-2c579edcf7de.png" height="80"/></a>](https://www.dio.me/certificate/SIVVS5KY/share)
-[<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" height="80"/></a>](https://www.dio.me/certificate/IZDNLSJC/share)
-[<img src="https://hermes.digitalinnovation.one/courses/badge/565f4603-4969-4cde-bc01-e9683d2350e8.png" height="80"/></a>](https://www.dio.me/certificate/281363E7)
-[<img src="https://hermes.dio.me/courses/badge/7227f234-f72e-4bd7-9997-edc43097e3e6.png" height="80"/></a>](https://www.dio.me/certificate/A2C21B58)
-[<img src="https://hermes.dio.me/courses/badge/db3b002b-5d46-46fe-8ee6-409452b11863.png" height="80"/></a>](https://www.dio.me/certificate/UZGO8AC7/share)
-[<img src="https://hermes.dio.me/lab_projects/badges/e8311210-f4c6-4c84-9d82-315ed13ff027.png" height="80"/></a>](https://www.dio.me/certificate/PCNTVTO6)
-[<img src="https://hermes.dio.me/courses/badge/c3c1a3d0-47ae-4f76-94b1-b9e00f89e815.png" height="80"/></a>](https://www.dio.me/certificate/HJN4G3NA/share)
+[<img src="https://hermes.dio.me/lab_projects/badges/581a907b-58d8-4ad2-b9c4-69d099267e1e.png" height="60"></a>](https://www.dio.me/certificate/CPEKS5CU)
+[<img src="https://hermes.dio.me/courses/badge/db18b05a-79d0-4359-9e4b-2c579edcf7de.png" height="60"/></a>](https://www.dio.me/certificate/SIVVS5KY/share)
+[<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" height="60"/></a>](https://www.dio.me/certificate/IZDNLSJC/share)
+[<img src="https://hermes.digitalinnovation.one/courses/badge/565f4603-4969-4cde-bc01-e9683d2350e8.png" height="60"/></a>](https://www.dio.me/certificate/281363E7)
+[<img src="https://hermes.dio.me/courses/badge/7227f234-f72e-4bd7-9997-edc43097e3e6.png" height="60"/></a>](https://www.dio.me/certificate/A2C21B58)
+[<img src="https://hermes.dio.me/courses/badge/db3b002b-5d46-46fe-8ee6-409452b11863.png" height="60"/></a>](https://www.dio.me/certificate/UZGO8AC7/share)
+[<img src="https://hermes.dio.me/lab_projects/badges/e8311210-f4c6-4c84-9d82-315ed13ff027.png" height="60"/></a>](https://www.dio.me/certificate/PCNTVTO6)
+[<img src="https://hermes.dio.me/courses/badge/c3c1a3d0-47ae-4f76-94b1-b9e00f89e815.png" height="60"/></a>](https://www.dio.me/certificate/HJN4G3NA/share)
+[<img src="https://hermes.dio.me/courses/badge/eb53d6e7-895a-45aa-8456-4a42152489eb.png" height="60"/></a>](https://www.dio.me/certificate/3PHL8STO/share)
+[<img src="https://hermes.dio.me/courses/badge/74b9dd55-c33f-4b41-96b2-991eda4a1504.png" height="60"/></a>](https://www.dio.me/certificate/H1WEWZHQ/share)
+
 __________________________________________________________________________________________________________________
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
