@@ -2,9 +2,9 @@
 
 # Jeferson Santana - jefsantana
 
-- Estudante de Software, sou apaixonado por tecnologias e adoro aprender coisas novas.
-- Em transição de carreira, optei pela área de programação em 2023 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
-- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia.
+- Meu nome é jeferson, tenho 35 anos, sou apaixonado por tecnologias e adoro aprender coisas novas.
+- Em transição de carreira, optei pela área de programação em 2023 atrás de conhecimentos. Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo.
+- Meu objetivo hoje é me inserir de forma definitiva na área de TI como Analista de Testes e me aprimorar para assumir novos desafios.
 
 <div align="center"> 
   <a href="https://www.instagram.com/jefsantanaofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
