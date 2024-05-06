@@ -43,6 +43,7 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/courses/badge/c3c1a3d0-47ae-4f76-94b1-b9e00f89e815.png" height="60"/></a>](https://www.dio.me/certificate/HJN4G3NA/share)
 [<img src="https://hermes.dio.me/courses/badge/eb53d6e7-895a-45aa-8456-4a42152489eb.png" height="60"/></a>](https://www.dio.me/certificate/3PHL8STO/share)
 [<img src="https://hermes.dio.me/courses/badge/74b9dd55-c33f-4b41-96b2-991eda4a1504.png" height="60"/></a>](https://www.dio.me/certificate/H1WEWZHQ/share)
+[<img src="https://hermes.dio.me/courses/badge/f1e27b3a-d7dc-42ae-bebd-e369bbe3be76.png" height="60"/></a>](https://www.dio.me/certificate/Z3HQNSFT/share)
 
 __________________________________________________________________________________________________________________
 
