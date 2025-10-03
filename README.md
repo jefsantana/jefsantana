@@ -32,16 +32,13 @@ Ferramentas:
 
 <div align="center">
   
-<br/>
+<br />
 
-[![JefSantana github stats](https://github-readme-stats.vercel.app/api?username=JefersonSantana&show_icons=true&theme=buefy)](https://github.com/jefsantana/github-readme-stats)
+[![Jeferson's github stats](https://github-readme-stats.vercel.app/api?username=jefsantana&show_icons=true&theme=buefy)](https://github.com/jefsantana)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantana&layout=compact&show_icons=true&theme=buefy)](https://github.com/jefsantana/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefsantana&layout=compact&show_icons=true&theme=buefy)](https://github.com/jefsantana)
 
 
 __________________________________________________________________________________________________________________
