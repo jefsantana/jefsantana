@@ -29,6 +29,9 @@ Ferramentas:
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+
+<div align="center">
+  
 <br/>
 
 [![JefSantana github stats](https://github-readme-stats.vercel.app/api?username=JefersonSantana&show_icons=true&theme=buefy)](https://github.com/jefsantana/github-readme-stats)
