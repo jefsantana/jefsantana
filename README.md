@@ -32,13 +32,18 @@ Ferramentas:
 
 <div align="center">
   
-<br />
+<br/>
 
 [![Jeferson's github stats](https://github-readme-stats.vercel.app/api?username=jefsantana&show_icons=true&theme=buefy)](https://github.com/jefsantana)
+
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefsantana&layout=compact&show_icons=true&theme=buefy)](https://github.com/jefsantana)
+
+
+
+
 
 
 __________________________________________________________________________________________________________________
